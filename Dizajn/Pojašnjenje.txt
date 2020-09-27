@@ -1,0 +1,3 @@
+U folderu "layout" se nalaze XML datoteke.
+U folderu "Slike" se nalaze slike koje su korištene.
+Dokument "Korisnièki interfejs" sadrži slike formi koje su uraðene.
